@@ -5,7 +5,7 @@ This entry is based on a 3D environment with cognitive tasks as means to progres
 
 ![1](https://user-images.githubusercontent.com/47105113/140274683-1046de13-2028-4c38-b76c-3585628d28ed.JPG)
 
-Parent paper is accepted for the poster session at the main symposium, minus the cognitive addition thought for the Hackaton. 
+Parent paper (single author) is accepted for the poster session at the main symposium, minus the cognitive addition thought for the Hackaton. 
 Also, the paper is in the revision phase to be published in IEEE ISGS 2021!
 
 Update 12/11/2021: The paper with the title of "Serious Interactive Digital Narrative: Explorations is in Personalization and Player Experience Enrichment '' is going to be published in IEEE's ISGS 2022.

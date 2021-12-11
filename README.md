@@ -1,5 +1,5 @@
 # SeGaP-21
-Entry for SeGaP 2021 Serious Games Hackaton 
+Entry for SeGaP 2021 Serious Games Prize 
 
 This entry is based on a 3D environment with cognitive tasks as means to progress the narrative. In this project, we set out to highlight the role of narration in cognitive serious games. The cognitive task/mini-games are thought to empower and evaluate the player's decision-making capacities, while generating a personalized ending based on her performance in the course of the game, to further instill the knowledge gained in the process.
 
